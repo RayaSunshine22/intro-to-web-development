@@ -25,6 +25,10 @@ const y = 10;
 
 const z = 15;
 
+let result1 = (x + y + z) / 3;
+
+console.log(result1);
+
 // TODO Calculate the average on the right hand side on the line below
 const result1 = undefined;
 
